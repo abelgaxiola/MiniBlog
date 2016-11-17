@@ -1,4 +1,4 @@
-﻿@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 1280px) {
     @-ms-viewport {
         width: 800px;
     }
@@ -121,6 +121,7 @@ input[type], button, textarea {
 
 .post p {
     padding: .2em 0;
+    font-size: 20px !important;
 }
 
 /*#endregion */
